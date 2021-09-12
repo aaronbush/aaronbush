@@ -9,7 +9,7 @@ I am a software engineer in the financial industry.  I enjoy exploring new progr
     - Some experiments writing a Trie data structure [here](https://github.com/aaronbush/kotlin-trie)
     - Trying some 2020 Advent of Code problems [here](https://github.com/aaronbush/aoc-2020-kotlin)
   - [Building Mechanical Keyboards](https://aaronbush.github.io/keyboards/)
-  - Python work on 2020 Advent of Code problems [here](https://github.com/aaronbush/aoc-2020)
+  - Python (early days in learning) work on 2020 Advent of Code problems [here](https://github.com/aaronbush/aoc-2020)
   - Dabbled in Go
     - A [project](https://github.com/aaronbush/goledwall) to drive a 4'x8' LED wall with an MSPaint like interface using [RayLib](https://www.raylib.com/).
 - 😄 Pronouns: He/Him/His
