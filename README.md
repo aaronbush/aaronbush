@@ -7,6 +7,7 @@ I am a software engineer in the financial industry.  I enjoy exploring new progr
 - 🌱 I’m currently learning: 
   - Kotlin (early days)
     - Some experiments writing a Trie data structure [here](https://github.com/aaronbush/kotlin-trie)
+    - Trying some 2021 Advent of Code problems [here](https://github.com/aaronbush/aoc-2021-kotlin)
     - Trying some 2020 Advent of Code problems [here](https://github.com/aaronbush/aoc-2020-kotlin)
   - [Building Mechanical Keyboards](https://aaronbush.github.io/keyboards/)
   - Python (early days in learning) work on 2020 Advent of Code problems [here](https://github.com/aaronbush/aoc-2020)
