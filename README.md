@@ -2,7 +2,7 @@
 
 Hello there 👋.
 
-I am a software engineer with expereince in the financial industry and streaming media.  I enjoy exploring new programming languages and digger deeper into functional programming and its impact to system design.
+I am a software engineer with expereince in the financial industry and streaming media.  I enjoy learning new functional programming languages and exploring their impact to system design.
 
 - 🌱 I’m currently exploring: 
   - Kotlin
